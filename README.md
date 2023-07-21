@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shardwick
 - 👀 Computational Science 
-- 🌱 I’m a Data Engineer 
-- ⨍ I’m looking to design architectural requirements
-- 🌉 Here to build
+- 🌱 I’m a Data Engineer.
+- ⨍ I design architectural requirements for tech.
+- 🌉 Here to build.
 
 <!---
 shardwick/shardwick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
