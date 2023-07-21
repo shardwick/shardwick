@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shardwick
 - 👀 Computational Science 
 - 🌱 I’m a Data Engineer.
-- ⨍ I design architectural requirements for tech.
+- ⨍  I design architectural requirements for tech.
 - 🌉 Here to build.
 
 <!---
